@@ -1,0 +1,5 @@
+pulp
+jupyter
+ipykernel
+pandas
+matplotlib
